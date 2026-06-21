@@ -1,0 +1,6 @@
+{
+  "name": "Scientific Calculator",
+  "description": "A beautiful, modern, and high-performance scientific calculator with history persistence via Room.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
